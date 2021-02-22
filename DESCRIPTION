@@ -1,5 +1,5 @@
 Package: EMLsemAnnotations
-Title: What the Package Does (One Line, Title Case)
+Title: Add Semantic Annotations to EML Metadata Records
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Samantha",
@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "samanthacsik@gmail.com,
            comment = c(ORCID = "https://orcid.org/0000-0002-5300-3075"))
-Description: What the package does (one paragraph).
+Description: Faciliates adding semantic annotations to EML records.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to
     pick a license
 Encoding: UTF-8
